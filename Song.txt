@@ -1,2 +1,8 @@
 The wheels on the bus go...
 Round and Round
+<<<<<<< HEAD
+=======
+
+The doors on the bus go..
+open and shut
+>>>>>>> d81c32f84e57c3fb6b0a6262d7b92fdfcdb8dec8
